@@ -6,7 +6,7 @@ p{
     color: blue;
 }
 img{
-    border: grey 10px solid;
+    border: black 10px solid;
 }
 .destacado{
     color: green;
@@ -23,4 +23,7 @@ img{
 
 body{
     background-color: rgb(95, 196, 187);
+}
+div{
+    color: gray;
 }
